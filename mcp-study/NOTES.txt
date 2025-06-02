@@ -1,0 +1,8 @@
+MCP-DEMO:
+Create a tool, choose a transport(It seems sse is deprecated)
+
+Run inspector with (npx @modelcontextprotocol/inspector) || mcp dev {server_name}.py
+Run the server with uv run {server_name}.py
+Connect the server_link/transport_type to the URI in the inspector
+Good to go!
+
